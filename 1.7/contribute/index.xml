@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contribute on PrestaShop Developer Documentation</title>
+    <link>https://devdocs.prestashop.com/1.7/contribute/</link>
+    <description>Recent content in Contribute on PrestaShop Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Apr 2019 18:34:03 +0300</lastBuildDate>
+    
+	<atom:link href="https://devdocs.prestashop.com/1.7/contribute/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to use GitHub to report an issue</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/contribute-reporting-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/contribute-reporting-issues/</guid>
+      <description>How to use GitHub to report an issue PrestaShop is using GitHub to track bugs and issues. This is the best place to describe bugs you are witnessing on your PrestaShop installation, and have the developers try to fix it.
+Creating your account In order to participate, you need to create an account to use the bug tracker.
+Create your account here.
+Fill all fields and validate your account request, then follow the different steps.</description>
+    </item>
+    
+    <item>
+      <title>Contribute using Docker</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/contribute_using_docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/contribute_using_docker/</guid>
+      <description>How to become a Core Contributor using Docker If you&amp;rsquo;re reading this, thank you! This means you&amp;rsquo;re interested on contributing to PrestaShop. You probably are a PrestaShop developer, and your use of the project is slighty different from ours. For instance, there are little differences between PrestaShop 1.7 (the release) and the branch 1.7 of PrestaShop in GitHub repository. This is because we create a release usable by everyone from our sources.</description>
+    </item>
+    
+    <item>
+      <title>How issues are sorted</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/how-issues-are-sorted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/how-issues-are-sorted/</guid>
+      <description>How issues are sorted What happens to the issue you have reported ? PrestaShop Quality Assurance team (aka QA) uses a transparent definition for the criteria used to qualify issues&amp;rsquo; severity, and how they should be applied through labels on github issues.
+Please note that severity is to be distinguished from priority. Indeed, severity is used to measure the negative impact that a bug has on a system, a feature, a component or on the project development.</description>
+    </item>
+    
+    <item>
+      <title>How Pull Requests are processed</title>
+      <link>https://devdocs.prestashop.com/1.7/contribute/how-pull-requests-are-processed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/contribute/how-pull-requests-are-processed/</guid>
+      <description>How issues are sorted What happens to the pull request you have submitted ? All submitted pull requests go through a thorough process which aims to provide a stable, consistent and reliable software that we all know under the name PrestaShop. Here is this process in details.
+Automatic tasks when you open a Pull Request When you submit a new Pull Request to the project repository https://github.com/PrestaShop/PrestaShop, some automatic checks are triggered.</description>
+    </item>
+    
+  </channel>
+</rss>
